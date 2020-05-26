@@ -23,7 +23,7 @@ install.packages("DT")
 install.packages("plotly")
 ```
 
-Alternatively, some packages could be installed from github with the follwoing script.
+Alternatively, some packages could be installed from github with the following script.
 
 ```{r install_packages_github}
 install.packages("devtools")
