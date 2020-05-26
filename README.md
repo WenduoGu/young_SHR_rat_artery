@@ -1,13 +1,6 @@
 # young_SHR_rat_artery
 ## Single-cell RNA sequencing of mesenteric and aortic arteries from young SHR and WKY rats
 
----
-title: "Github - shiny - young_SHR_rat_arteries"
-output:
-  html_document: default
-  pdf_document: default
----
-
 ## 1. Install the latest version of R and Rstudio
 
 https://cran.r-project.org/bin/windows/base/
